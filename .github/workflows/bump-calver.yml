@@ -2,8 +2,8 @@ name: Bump calver year and month
 
 on:
   schedule:
-     - cron: "30 9 12 * *"
-       timezone: "America/Halifax"
+     - cron: "35 8 12 * *"
+       timezone: "America/New_York"
 
 permissions:
   contents: write
