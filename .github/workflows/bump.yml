@@ -1,7 +1,7 @@
 name: Bump calver
 on:
   schedule:
-     - cron: "35 * * * *"
+     - cron: "0/9 * * * *"
 
 permissions:
   contents: write
